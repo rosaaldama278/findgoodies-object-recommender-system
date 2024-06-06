@@ -1,0 +1,35 @@
+.dropzone {
+  border: 2px dashed #711AC2;
+  border-radius: 5px;
+  padding: 20px;
+  text-align: center;
+  cursor: pointer;
+  width: 50%; /* Set the width of the dropzone */
+  height: 50%; /* Set the height of the dropzone */
+  margin: 0 auto; /* Center the dropzone horizontally */
+}
+.formats {
+  color: gray;
+  margin: 0; /* Remove default margins to make the text centered */
+}
+.browse{
+  color: #711AC2;
+}
+
+.labels {
+    margin-top: 20px;
+  }
+  
+.label {
+    margin-right: 5px;
+  }
+
+.loading {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  
+  
+  

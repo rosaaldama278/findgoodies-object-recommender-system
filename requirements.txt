@@ -1,0 +1,29 @@
+beautifulsoup4 @ file:///home/conda/feedstock_root/build_artifacts/beautifulsoup4_1705564648255/work
+boto3 @ file:///home/conda/feedstock_root/build_artifacts/boto3_1716400818020/work
+botocore @ file:///home/conda/feedstock_root/build_artifacts/botocore_1716363432558/work
+Brotli @ file:///Users/runner/miniforge3/conda-bld/brotli-split_1695989934239/work
+cramjam @ file:///Users/runner/miniforge3/conda-bld/cramjam_1711053685745/work
+fastparquet @ file:///Users/runner/miniforge3/conda-bld/fastparquet_1708566268901/work
+fsspec @ file:///home/conda/feedstock_root/build_artifacts/fsspec_1715865800631/work
+gensim @ file:///Users/runner/miniforge3/conda-bld/gensim_1707360528656/work
+jmespath @ file:///home/conda/feedstock_root/build_artifacts/jmespath_1655568249366/work
+lxml @ file:///Users/runner/miniforge3/conda-bld/lxml_1715598702210/work
+nltk==3.7
+numpy @ file:///Users/runner/miniforge3/conda-bld/numpy_1653325964689/work
+packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1710075952259/work
+pandas @ file:///Users/runner/miniforge3/conda-bld/pandas_1715897641697/work
+py4j @ file:///home/conda/feedstock_root/build_artifacts/py4j_1660381574436/work
+pyarrow==16.1.0
+PySocks @ file:///home/conda/feedstock_root/build_artifacts/pysocks_1661604839144/work
+pyspark @ file:///home/conda/feedstock_root/build_artifacts/pyspark_1709470827857/work
+python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1709299778482/work
+pytz @ file:///home/conda/feedstock_root/build_artifacts/pytz_1706886791323/work
+s3transfer @ file:///home/conda/feedstock_root/build_artifacts/s3transfer_1710497251148/work
+SciPy @ file:///Users/runner/miniforge3/conda-bld/scipy_1667960661844/work
+sentencepiece @ file:///Users/runner/miniforge3/conda-bld/sentencepiece-split_1710822954217/work/python
+six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
+smart_open @ file:///home/conda/feedstock_root/build_artifacts/smart_open_split_1711455333245/work/dist
+soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1693929250441/work
+tzdata @ file:///home/conda/feedstock_root/build_artifacts/python-tzdata_1707747584337/work
+urllib3 @ file:///home/conda/feedstock_root/build_artifacts/urllib3_1697813446430/work
+wrapt @ file:///Users/runner/miniforge3/conda-bld/wrapt_1699532888670/work

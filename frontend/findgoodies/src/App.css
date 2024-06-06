@@ -1,0 +1,23 @@
+.App {
+  margin-top: 100px;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+
+.header {
+  justify-content: space-between;
+  padding-top: 10px;
+}
+
+.header h1 {
+font-size: 24px;
+font-weight: 800;
+
+color: #711AC2;
+
+}
